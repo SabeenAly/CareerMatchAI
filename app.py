@@ -23,7 +23,7 @@ st.markdown("""
 # ─────────────────────────────────────────────
 # JSearch API (RapidAPI) — Sign up free at rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
 # Free tier: 200 requests/month
-JSEARCH_API_KEY = "a0a5281764msh867ac5acb20aaecp1333ccjsn117804a75845"   # ← paste your RapidAPI key here
+JSEARCH_API_KEY = "a0a5281764msh867ac5acb20aaecp1333ccjsn117804a75845"   # RapidAPI key
 
 
 
